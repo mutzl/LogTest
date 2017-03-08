@@ -1,0 +1,2 @@
+2017-03-08 13:20:04,525 [12] INFO MyLogger - Hello World
+2017-03-08 13:20:26,129 [12] INFO MyLogger - Hello World
